@@ -45,7 +45,6 @@
 
     <plugin name="cordova-plugin-battery-status" />
     <plugin name="cordova-plugin-camera" />
-    <plugin name="cordova-plugin-compass" />
     <plugin name="cordova-plugin-connection" />
     <plugin name="cordova-plugin-media-capture" />
     <plugin name="cordova-plugin-console" />
@@ -68,7 +67,7 @@
     <plugin name="cordova-plugin-vibration" />
     <plugin name="cordova-plugin-whitelist" />
 
-
+	<plugin name="Compass" value="org.apache.cordova.CompassListener" />
 
     <icon src="icon.png" />
     <icon src="resources/android/icon/drawable-ldpi-smallicon.png"   gap:platform="android"    gap:qualifier="ldpi" />
