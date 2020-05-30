@@ -64,10 +64,7 @@
     <plugin name="cordova-plugin-vibration" />
     <plugin name="cordova-plugin-whitelist" />
 
-	<plugin name="Compass" value="org.apache.cordova.CompassListener" />
-	<plugin name="NetworkStatus" value="org.apache.cordova.NetworkManager" />
-	<plugin name="Contacts" value="org.apache.cordova.ContactManager" />
-
+	
     <icon src="icon.png" />
     <icon src="resources/android/icon/drawable-ldpi-smallicon.png"   gap:platform="android"    gap:qualifier="ldpi" />
     <icon src="resources/android/icon/drawable-mdpi-smallicon.png"   gap:platform="android"    gap:qualifier="mdpi" />
