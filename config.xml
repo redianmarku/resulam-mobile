@@ -6,7 +6,7 @@
 		id        = "com.resulam.mobile"
 		versionCode="10"
 		version   = "1.0.0">
-    <name>Moodle App</name>
+    <name>Resulam</name>
 
     <description>
         Resulam Online Learning Platform.
@@ -15,6 +15,8 @@
     <author href="http://redianmarku.github.io">
         Redian Marku
     </author>
+    
+    <preference name="loadUrlTimeoutValue" value="700000" />
 
     <feature name="http://api.phonegap.com/1.0/battery" />
     <feature name="http://api.phonegap.com/1.0/camera" />
