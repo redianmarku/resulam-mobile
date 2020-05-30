@@ -44,7 +44,11 @@
 
 
     <plugin name="cordova-plugin-battery-status" />
+    <plugin name="cordova-plugin-battery-accelerator" />
     <plugin name="cordova-plugin-camera" />
+    <plugin name="cordova-plugin-capture" />
+    <plugin name="cordova-plugin-compass" />
+    <plugin name="cordova-plugin-connection" />
     <plugin name="cordova-plugin-media-capture" />
     <plugin name="cordova-plugin-console" />
     <plugin name="cordova-plugin-contacts" />
@@ -54,12 +58,15 @@
     <plugin name="cordova-plugin-dialogs" />
     <plugin name="cordova-plugin-file" />
     <plugin name="cordova-plugin-file-transfer" />
+    <plugin name="cordova-plugin-file-writer" />
     <plugin name="cordova-plugin-geolocation" />
     <plugin name="cordova-plugin-globalization" />
     <plugin name="cordova-plugin-inappbrowser" />
     <plugin name="cordova-plugin-media" />
     <plugin name="cordova-plugin-network-information" />
+    <plugin name="cordova-plugin-notification" />
     <plugin name="cordova-plugin-splashscreen" />
+    <plugin name="cordova-plugin-statusbar" />
     <plugin name="cordova-plugin-vibration" />
     <plugin name="cordova-plugin-whitelist" />
 
