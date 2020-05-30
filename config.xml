@@ -44,7 +44,6 @@
 
 
     <plugin name="cordova-plugin-battery-status" />
-    <plugin name="cordova-plugin-accelerator" />
     <plugin name="cordova-plugin-camera" />
     <plugin name="cordova-plugin-capture" />
     <plugin name="cordova-plugin-compass" />
