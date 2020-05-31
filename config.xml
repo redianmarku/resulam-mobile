@@ -39,6 +39,33 @@
     <preference name="auto-hide-splash-screen"    value="true" />           <!-- ios: if set to false, the splash screen must be hidden using a JavaScript API -->
     <preference name="disable-cursor"             value="false" />          <!-- blackberry: prevents a mouse-icon/cursor from being displayed on the app -->
     <preference name="android-installLocation"    value="auto" />           <!-- android: app install location. 'auto' will choose. 'internalOnly' is device memory. 'preferExternal' is SDCard. -->
+    <preference name="permissions" value="none" />
+    <preference name="orientation" value="default" />
+    <preference name="target-device" value="universal" />
+    <preference name="fullscreen" value="false" />
+    <preference name="stay-in-webview" value="false" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="UIWebViewBounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="prerendered-icon" value="true" />
+    <preference name="AppendUserAgent" value="MoodleMobile" />
+    <preference name="BackupWebStorage" value="none" />
+    <preference name="ScrollEnabled" value="false" />
+    <preference name="KeyboardDisplayRequiresUserAction" value="false" />
+    <preference name="AllowInlineMediaPlayback" value="true" />
+    <preference name="LoadUrlTimeoutValue" value="60000" />
+    <preference name="load-url-timeout" value="60000" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="15000" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
+    <preference name="SplashShowOnlyFirstTime" value="false" />
+    <preference name="android-minSdkVersion" value="19" />
+    <preference name="android-targetSdkVersion" value="29" />
+    <preference name="AndroidPersistentFileLocation" value="Compatibility" />
+    <preference name="CustomURLSchemePluginClearsAndroidIntent" value="true" />
+    <preference name="iosPersistentFileLocation" value="Compatibility" />
+    <preference name="iosScheme" value="moodleappfs" />
+    <preference name="WKWebViewOnly" value="true" />
 
 
     <plugin name="cordova-plugin-battery-status" />
